@@ -1,6 +1,6 @@
 {
-  "name": "graphql-sync",
-  "version": "0.6.2-sync",
+  "name": "@limres/graphql-sync",
+  "version": "0.9.6",
   "description": "Promise-free wrapper for GraphQL.",
   "main": "lib/index.js",
   "files": [
@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/arangodb/graphql-sync#readme",
   "dependencies": {
-    "graphql": "^0.6.0"
+    "graphql": "^0.9.6"
   },
   "devDependencies": {
     "babel-cli": "6.18.0",
